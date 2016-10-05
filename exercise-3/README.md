@@ -11,11 +11,11 @@ See complete branch for answers.
 
 # cd
 
-The 'cd' command can be used to change the directory/folder which you are in. For example:
+The `cd` command can be used to change the directory/folder which you are in. For example:
 
-If you are currently in the 'Documents' directory and would like to move to a directory in 'Documents' called 'AwesomeFolder', you would type 'cd AwesomeFolder' in your terminal.
+If you are currently in the `Documents` directory and would like to move to a directory in `Documents` called `AwesomeFolder`, you would type `cd AwesomeFolder` in your terminal.
 
-Here's some more information about the 'cd' command:
+Here's some more information about the `cd` command:
 
-- Simply typing 'cd' in the terminal will take you to the root folder in the file system
-- Type 'cd ..' to navigate up/out of a directory
+- Simply typing `cd` in the terminal will take you to the root folder in the file system
+- Type `cd ..` to navigate up/out of a directory
